@@ -1,6 +1,6 @@
 const help = (prefix) => {
 	return `
-「 *May* 」
+「 *monke.* 」
 
 ◪ *Olá ${pushname} Bem-vindo(a)*
 
@@ -35,13 +35,6 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}promover
   ├─ ❏ ${prefix}membros
   └─ ❏ ${prefix}notif
-◪ *PRODUTOS*
-  │
-  ❏ Seg: Brasileiros e Mundiais
-  ❏ Inscritos: Brasileiros e Mundiais
-  ❏ Likes: Brasileiros e Mundiais
-  ❏ Views: Brasileiros e Mundiais
-  ❏ May: premium
 ◪ *PLATAFORMAS*
   │
   ❏ Instagram
@@ -51,16 +44,10 @@ const help = (prefix) => {
   ❏ Whatsapp
 ◪ *CRÉDITOS*
   │
-  ❏ Criador : Thoth
+  ❏ Criador da base : Thoth
   ❏ Instagram: @crwth.gs
-  ❏ Voz da May : Rafaella
-  ❏ Instagram: @rafaella.saraiva83
-  ❏ Logo : Edu
-  ❏ Site: priv8.com.br (off)
-  ❏ Auxílio: Kill
-  ❏ Github: github.com/KillovSky
-  ❏ Animes: Haru a
-  ❏ Instagram: @blue_.ghost_
+  ❏ mod: Laki
+  ❏ Instagram: @why.laki
 `
 }
 
