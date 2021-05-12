@@ -6,8 +6,7 @@ const help = (prefix) => {
 
 ◪ *SOBRE*
   ❏ Prefixo: 「  ${prefix}  」
-  ❏ Versão da May : free
-  ❏ wa.me/+5511930758170
+  ❏ wa.me/+558496668284
 ◪ *MÚSICA*
   │
   └─ ❏ ${prefix}play (nome da música)
