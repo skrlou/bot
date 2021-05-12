@@ -32,7 +32,7 @@ você acabou de clonar!!
 ```json
 {
 	"prefix": "/",
-	"ownerNumber": "551193xxxxx",
+	"ownerNumber": "558496668284",
 	"apiKey": "Your ApiKey here"
 }
 ```
